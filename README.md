@@ -1,10 +1,10 @@
-## Conway's Game Of Life
+# Conway's Game Of Life
 
 Just a Godot implementation of the famous Game Of Life, by John Horton Conway.
 
 
 
-# Keybinds (made for AZERTY Keyboards):
+## Keybinds (made for AZERTY Keyboards):
 
 Keyboard:
 - A: Slow the time
