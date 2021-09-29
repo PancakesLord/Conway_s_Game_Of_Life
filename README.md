@@ -16,3 +16,5 @@ Keyboard:
 Mouse:
 
 - Left Click: Add a living cell
+- Well up: Zoom in
+- Well down: Zoom out
